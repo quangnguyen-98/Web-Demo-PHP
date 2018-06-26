@@ -56,7 +56,7 @@
     	Vui lòng đăng nhập hoặc đăng kí !
     </div>
       	<div class="col-xs-6 col-xs-offset-4">
-            <a href="login.blade.php" button class="btn btn-primary" style="font-size:35px" >Đăng nhập</a>
+            <a href="login" button class="btn btn-primary" style="font-size:35px" >Đăng nhập</a>
            
             <button type="button" class="btn btn-success" style="font-size:35px; margin-left:25px; width:210px" >Đăng ký</button>
        	</div> 
